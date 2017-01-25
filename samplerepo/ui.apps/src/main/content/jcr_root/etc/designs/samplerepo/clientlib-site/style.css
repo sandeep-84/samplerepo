@@ -34,3 +34,9 @@ a:hover {
 img {
     vertical-align: top;
 }
+/*
+// added for testing in forked repo branch
+*/
+p {
+    text-decoration: underline; 
+}
